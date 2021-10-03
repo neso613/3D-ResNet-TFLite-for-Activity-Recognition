@@ -4,6 +4,7 @@
 ```sh
 pip install tensorflow
 pip install opencv-python
+pip install numpy
 ```
 ### Model
 
