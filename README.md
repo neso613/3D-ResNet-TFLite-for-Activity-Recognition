@@ -8,7 +8,7 @@ pip install numpy
 ```
 ### Model
 
-[kinetics_resnet_50.onnx]()
+[kinetics_resnet_50.onnx](https://drive.google.com/file/d/1Zg4zUjV1TxryfJv--xHZ8f8DJqSX3J0o/view?usp=sharing)
 
 ### How to run
 Run the script this way:
