@@ -2,9 +2,9 @@
 
 ### Installation
 ```sh
-pip install tensorflow
-pip install opencv-python
-pip install numpy
+pip3 install tensorflow
+pip3 install opencv-python
+pip3 install numpy
 ```
 ### Model
 
