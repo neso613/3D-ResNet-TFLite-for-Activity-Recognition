@@ -11,8 +11,6 @@ pip3 install numpy
 [kinetics_resnet_50.onnx](https://drive.google.com/file/d/1Zg4zUjV1TxryfJv--xHZ8f8DJqSX3J0o/view?usp=sharing)
 
 ### How to run
-Run the script this way:
-
 ```sh
 # Video
 python3 run.py /path/to/input_video /path/to/output_video_saved
